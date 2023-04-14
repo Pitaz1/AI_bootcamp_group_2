@@ -35,7 +35,7 @@ def create_footer():
     with left_col:
         st.write("")
     with right_col:
-        st.write("Made by Group 5")
+        st.write("Made by Group 2")
 
     st.markdown(
         """
@@ -55,7 +55,7 @@ create_footer()
 
 # Main Application
 def main():
-	st.title("Spam Classifier App")
+	st.title("Spam Classification App")
 	menu = ["Home","About"]
 	choice = st.sidebar.selectbox("Menu",menu)
 	if choice == "Home":
