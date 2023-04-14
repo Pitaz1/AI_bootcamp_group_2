@@ -1,8 +1,9 @@
-GROUP 5
-* Favour Akinyanju
-* Hephzibah Jesutofunmi
-* Micah Alabi
-* Mujeeb Bhadmus
+group 2
+* Gawati Oluwatomilola
+* Adeniran pius
+* Akande Sulton
+* Udoh Ubong-Abasi
+* Rahmon Halimah
 
 DATA:
-SPAM text message
+Group 2.csv 
